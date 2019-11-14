@@ -1,0 +1,13 @@
+body {
+  width: 960px;
+  font: 14px Helvetica, "Lucida Grande", Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+textarea {
+  height: 300px;
+  width: 100%;
+}
