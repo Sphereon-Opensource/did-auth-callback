@@ -24,7 +24,7 @@
         <entry file="file://$PROJECT_DIR$/routes/index.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -109,11 +109,6 @@
             <path>
               <item name="did-auth-callback" type="b2602c69:ProjectViewProjectNode" />
               <item name="did-auth-callback" type="462c0819:PsiDirectoryNode" />
-              <item name="bin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="did-auth-callback" type="b2602c69:ProjectViewProjectNode" />
-              <item name="did-auth-callback" type="462c0819:PsiDirectoryNode" />
               <item name="public" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -126,11 +121,6 @@
               <item name="did-auth-callback" type="b2602c69:ProjectViewProjectNode" />
               <item name="did-auth-callback" type="462c0819:PsiDirectoryNode" />
               <item name="routes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="did-auth-callback" type="b2602c69:ProjectViewProjectNode" />
-              <item name="did-auth-callback" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -176,15 +166,16 @@
       <option name="presentableId" value="Default" />
       <updated>1573717196653</updated>
       <workItem from="1573717211927" duration="84000" />
-      <workItem from="1573717355424" duration="5507000" />
+      <workItem from="1573717355424" duration="5906000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5591000" />
+    <option name="totallyTimeSpent" value="5990000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -271,7 +262,7 @@
     <entry file="file://$PROJECT_DIR$/routes/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
